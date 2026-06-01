@@ -1,7 +1,7 @@
 # Halo, I'm Ana Zahratul Firdausi 👋
 ---
-I am an Informatics student with a strong interest in Artificial Intelligence and Machine Learning.
-I enjoy transforming data into meaningful insights and developing intelligent systems that support effective problem-solving and decision-making.
+I am an Informatics student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and MLOps.
+I enjoy building end-to-end intelligent systems, from data processing and model development to deployment and monitoring. I enjoy transforming data into meaningful insights and developing intelligent systems that support effective problem-solving and decision-making.
 
 - 🔬 Actively working on AI & Machine Learning projects
 - 📊 Exploring data analysis and model performance evaluation
